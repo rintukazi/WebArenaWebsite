@@ -3,3 +3,9 @@ footer div p a{
     color: white;
     font-weight: 300;
 }
+/* media query */
+@media screen and (min-width:576px) and (max-width:768px) {
+    .rounded .row div img{
+        width: 100%;
+    }
+}
